@@ -4,6 +4,9 @@
 
 This repository contains the implementation of the shadow removal method based on color transfer presented in the paper *Enhanced Illumination Adjustment in 3D Outdoor Reconstructions via Shadow Removal through Color Transfer*.
 
+<img width="2608" height="1228" alt="MMSP_Pipeline-Visual_Pipeline" src="https://github.com/user-attachments/assets/b9cb68d1-2d62-4596-b2ef-224ccdc18c81" />
+
+
 ## Workflow
 
 The method consists of the following steps:

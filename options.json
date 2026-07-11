@@ -1,0 +1,18 @@
+{
+    "in_folder": "/Users/hpotechius/Downloads/SRCT_TEST/IN",
+    "out_folder": "/Users/hpotechius/Downloads/SRCT_TEST/OUT",
+    "dateloc": {
+        "year": 2023,
+        "month": 12,
+        "day": 16,
+        "utc":1,
+        "latitude": 50.918489,
+        "longitude": 11.568956,
+        "northoffset": -3.141592653589793,
+        "daylightsavings": true,
+        "time": "14:20"
+    },
+    "clusters": 2,
+    "color_transfer_method": "fuzzy",
+    "blending": false
+}

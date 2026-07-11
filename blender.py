@@ -25,6 +25,8 @@ def create_sunlight():
     
     # Link the light object to the collection
     bpy.context.collection.objects.link(light_object)
+
+    light_object.data.energy = 1.0
     
     return light_object
 

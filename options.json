@@ -1,6 +1,6 @@
 {
-    "in_folder": "/Users/hpotechius/Downloads/SRCT_TEST/IN",
-    "out_folder": "/Users/hpotechius/Downloads/SRCT_TEST/OUT",
+    "in_folder": "data/IN",
+    "out_folder": "data/OUT",
     "dateloc": {
         "year": 2023,
         "month": 12,
@@ -14,5 +14,5 @@
     },
     "clusters": 2,
     "color_transfer_method": "fuzzy",
-    "blending": false
+    "blending": true
 }
